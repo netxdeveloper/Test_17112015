@@ -1,3 +1,0 @@
-define([
-    'specs/example.spec'
-]);
